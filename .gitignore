@@ -38,5 +38,5 @@ build/
 .DS_Store
 
 misc.xml
-encoding.xml
+encodings.xml
 vcs.xml
